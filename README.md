@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawan8705](https://github.com/pawan8705)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pawan-tripathi-967575274/](https://www.linkedin.com/in/pawan-tripathi-967575274/)
+- 📝 My Linkedin Account  [https://www.linkedin.com/in/pawan-tripathi-967575274/](https://www.linkedin.com/in/pawan-tripathi-967575274/)
 
 - 🚀 Code Philosophy: **Clean, efficient, and maintainable code.**
 
