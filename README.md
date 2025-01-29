@@ -22,7 +22,7 @@ global position 18,000 rank out of 5 lakhs.](https://www.codechef.com/users/pawa
 
 - 👨‍💻 All of my projects are available at [https://manyprojects.netlify.app/](https://manyprojects.netlify.app/)
 
-- 📝 My personal portfolio [https://pawantripathi.netlify.app/](https://pawantripathi.netlify.app/)
+- 📝 My personal portfolio [https://pawantripathi.netlify.app/](https://pawantripathi87.netlify.app/)
 
 - 🚀 Code Philosophy: **Clean, efficient, and maintainable code.**
 
