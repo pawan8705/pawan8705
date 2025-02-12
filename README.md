@@ -22,7 +22,7 @@ global position 18,000 rank out of 5 lakhs.](https://www.codechef.com/users/pawa
 
 - 👨‍💻 All of my projects are available at [https://manyprojects.netlify.app/](https://manyprojects.netlify.app/)
 
-- 📝 My personal portfolio [https://pawantripathi87.netlify.app/](https://pawantripathi87.netlify.app/)
+- 📝 My personal portfolio [https://pawantripathi87.netlify.app/](https://tripathipawan.netlify.app/)
 
 - 🚀 Code Philosophy: **Clean, efficient, and maintainable code.**
 
@@ -47,7 +47,7 @@ global position 18,000 rank out of 5 lakhs.](https://www.codechef.com/users/pawa
   <a href="https://fb.com/pawan tripathi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="pawan tripathi" height="30" width="40" /></a>
-  <a href="https://instagram.com/pawan_tripathi06" target="blank"><img align="center"
+  <a href="https://www.instagram.com/pawan.tripathi06?igsh=MWZocGYwYmR2NnRhbg==" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="pawan_tripathi06" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/pawantripathi7" target="blank"><img align="center"
