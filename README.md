@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.imgur.com/zIZZWg5.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/pawan8705/pawan8705/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pawan Tripathi</h1>
