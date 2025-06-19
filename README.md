@@ -68,7 +68,6 @@ Here are a few of my featured projects:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawan8705&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan8705&theme=radical" width="47%" />
 </p>
 
 <p align="center">
@@ -97,7 +96,7 @@ Here are a few of my featured projects:
 <p align="center" justify="between">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="256" alt="Code GIF" />
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" /> 
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="215" /> 
 </p>
 
 <p align="center">
