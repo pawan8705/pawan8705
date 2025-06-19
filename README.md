@@ -60,7 +60,7 @@ Here are a few of my featured projects:
 - 🎵 [**Spotify Clone** – Music Streaming UI](https://github.com/pawan8705/Spotifyclone)
 - 🚀 [**Personal Portfolio** – Personal Portfolio Live Preview](https://pawantripathi06.netlify.app/)
 
-> 💡 More projects coming soon...
+> 💡 More projects in repository...
 
 ---
 
