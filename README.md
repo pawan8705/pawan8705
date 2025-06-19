@@ -95,7 +95,7 @@ Here are a few of my featured projects:
 ---
 
 <p align="center" justify="between">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Code GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="256" alt="Code GIF" />
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </p>
 
