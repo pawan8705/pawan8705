@@ -6,7 +6,8 @@
 <h1 align="center">Hi 👋, I'm Pawan Tripathi</h1>
 <h3 align="center">🚀 Frontend & Web Developer | BCA Graduate | Tech Explorer</h3>
 
-<p align="center">
+<p align="center" justify="between">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Code GIF" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;React+%7C+Tailwind+%7C+JavaScript;Learning+Node.js+%26+Express.js;Let's+Build+Something+Great!" alt="Typing animation" />
 </p>
 
@@ -41,10 +42,10 @@
 ## 🌐 2. Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/pawan-tripathi-9a8158367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/pawan_tripathi06/profilecard/?igsh=NHhocndiNHEzZW13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -57,7 +58,8 @@ Here are a few of my featured projects:
 
 - 🛒 [**NeoElectronix** – Electronics E-Commerce Website](https://github.com/pawan8705/NeoElectonix)  
 - 📊 [**Admin Dashboard UI** – React Admin Panel](https://github.com/pawan8705/React-Admin-Dashboard)  
-- 🎵 [**Spotify Clone** – Music Streaming UI](https://github.com/YOUR-USERNAME/spotify-clone)  
+- 🎵 [**Spotify Clone** – Music Streaming UI](https://github.com/pawan8705/Spotifyclone)
+- 🚀 [**Personal Portfolio** – Personal Portfolio Live Preview](https://pawantripathi06.netlify.app/)
 
 > 💡 More projects coming soon...
 
@@ -66,12 +68,12 @@ Here are a few of my featured projects:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan8705&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan8705&theme=radical" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan8705&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
