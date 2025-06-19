@@ -6,8 +6,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Tripathi</h1>
 <h3 align="center">🚀 Frontend & Web Developer | BCA Graduate | Tech Explorer</h3>
 
-<p align="center" justify="between">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Code GIF" />
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;React+%7C+Tailwind+%7C+JavaScript;Learning+Node.js+%26+Express.js;Let's+Build+Something+Great!" alt="Typing animation" />
 </p>
 
@@ -95,7 +94,8 @@ Here are a few of my featured projects:
 
 ---
 
-<p align="center">
+<p align="center" justify="between">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Code GIF" />
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </p>
 
