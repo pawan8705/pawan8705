@@ -58,7 +58,7 @@ Here are a few of my featured projects:
 - 🛒 [**NeoElectronix** – Electronics E-Commerce Website](https://github.com/pawan8705/NeoElectonix)  
 - 📊 [**Admin Dashboard UI** – React Admin Panel](https://github.com/pawan8705/React-Admin-Dashboard)  
 - 🎵 [**Spotify Clone** – Music Streaming UI](https://github.com/pawan8705/Spotifyclone)
-- 🚀 [**Personal Portfolio** – Personal Portfolio Live Preview](https://pawantripathi06.netlify.app/)
+- 🚀 [**Personal Portfolio** – Personal Portfolio Live Preview](https://portfolio-sooty-alpha-g4ekieye96.vercel.app/)
 
 > 💡 More projects in repository...
 
