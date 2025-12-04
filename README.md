@@ -177,13 +177,13 @@ Currently working to improve my skills in full-stack development with real-world
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan8705&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pawan8705&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan8705&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -191,7 +191,7 @@ Currently working to improve my skills in full-stack development with real-world
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pawan8705&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -199,7 +199,7 @@ Currently working to improve my skills in full-stack development with real-world
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_pawan8705&theme=tokyo-night" />
 </p>
 
 ---
@@ -207,7 +207,7 @@ Currently working to improve my skills in full-stack development with real-world
 ## 🧮 Metrics (Overview Card)
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&pagespeed=0&introduction=1&config.timezone=Asia%2FKolkata" width="75%"/>
+  <img src="https://metrics.lecoq.io/pawan8705?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&pagespeed=0&introduction=1&config.timezone=Asia%2FKolkata" width="75%"/>
 </p>
 
 ---
@@ -215,8 +215,8 @@ Currently working to improve my skills in full-stack development with real-world
 ## 🗂️ Profile Views & Followers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=pawan8705&color=blue" />
+  <img src="https://img.shields.io/github/followers/pawan8705?label=Followers&style=for-the-badge" />
 </p>
 
 
