@@ -272,6 +272,19 @@ Currently working to improve my skills in full-stack development with real-world
 
 <hr/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pawan8705?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/pawan8705?label=Stars&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/pawan8705?label=Commits/Year&color=blue" />
+  <img src="https://img.shields.io/github/repo-count/pawan8705?label=Repos&color=green" />
+</p>
+
+
 <p align="center">
   ⭐️ Thanks for visiting! Let's connect and build something amazing together!
 </p>
