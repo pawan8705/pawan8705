@@ -199,7 +199,7 @@ Currently working to improve my skills in full-stack development with real-world
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_pawan8705&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan8705&theme=tokyo-night" />
 </p>
 
 ---
