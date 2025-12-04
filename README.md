@@ -166,6 +166,27 @@ Currently working to improve my skills in full-stack development with real-world
 </p>
 </section>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pawan8705&theme=dracula&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📊 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pawan8705?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/pawan8705?label=Stars&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/pawan8705?label=Commits/Year&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/pawan8705?label=Last+Commit&color=red" />
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
