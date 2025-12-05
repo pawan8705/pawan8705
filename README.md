@@ -129,6 +129,10 @@ Currently working to improve my skills in full-stack development with real-world
   <a href="https://github.com/pawan8705/tasteful-themes-pro">GitHub Link</a> ||
   <a href="https://tasteful-themes-pro.lovable.app/">Live Preview</a>
   </li>
+  <li><strong>Restaurant Website</strong> ||
+  <a href="https://github.com/pawan8705/expense-tracker-8705">GitHub Link</a> ||
+  <a href="https://expense-tracker-8705.lovable.app">Live Preview</a>
+  </li>
 </ol>
 </section>
 
