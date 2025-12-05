@@ -133,6 +133,10 @@ Currently working to improve my skills in full-stack development with real-world
   <a href="https://github.com/pawan8705/expense-tracker-8705">GitHub Link</a> ||
   <a href="https://expense-tracker-8705.lovable.app">Live Preview</a>
   </li>
+  <li><strong>Admin Dashboard</strong> ||
+  <a href="https://github.com/pawan8705/insight-hub">GitHub Link</a> ||
+  <a href="https://dashboard-bypawan8705.lovable.app">Live Preview</a>
+  </li>
 </ol>
 </section>
 
