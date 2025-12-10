@@ -166,15 +166,6 @@ Currently working to improve my skills in full-stack development with real-world
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan8705&theme=tokyo-night" height="180" />
 </p>
 
----
-
-## 👁️ Profile Views & Followers
-
-<p align="center">
-    <img src="https://img.shields.io/github/followers/pawan8705?label=Followers&style=social" />
-    <img src="https://komarev.com/ghpvc/?username=pawan8705&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/pawan8705?label=Stars&style=social" />
-</p>
 
 
 ## 📊 GitHub Stats
@@ -182,12 +173,6 @@ Currently working to improve my skills in full-stack development with real-world
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pawan8705&show_icons=true&theme=radical" height="180"/>
   <img src="https://streak-stats.demolab.com?user=pawan8705&theme=radical" height="180"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pawan8705&layout=compact&theme=radical" height="180"/>
 </p>
 
 <hr/>
