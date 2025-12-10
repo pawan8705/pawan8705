@@ -172,7 +172,6 @@ Currently working to improve my skills in full-stack development with real-world
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pawan8705&show_icons=true&theme=radical" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=pawan8705&theme=radical" height="180"/>
 </p>
 
 <hr/>
