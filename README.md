@@ -90,10 +90,22 @@ Currently working to improve my skills in full-stack development with real-world
 <h2>💼 My Front-end Projects</h2>
 
 <ol>
+  
+  <li><strong>Portfolio Website</strong> ||
+    <a href="https://github.com/pawan8705/Portfolio">GitHub Link</a> ||
+    <a href="https://portfolio-sooty-alpha-g4ekieye96.vercel.app/">Live Preview</a>
+  </li>
+  
   <li><strong>NeoElectronix – Electronics E-Commerce Website</strong> || 
   <a href="https://github.com/pawan8705/NeoElectonix">GitHub Link</a> ||
   <a href="https://neo-electonix-l5ub.vercel.app/">Live Preview</a>
   </li>
+  
+   <li>
+    <strong>Doctor Appointment Booking Website</strong> ||
+    <a href="https://github.com/pawan8705/Doctor_Booking_App">GitHub Link</a>  ||
+    <a href="https://doctor-appointment-booking-app-seven.vercel.app/">Live Preview</a>
+   </li>
 
 
   <li><strong>Admin Dashboard UI – React Admin Panel</strong> ||
@@ -101,21 +113,9 @@ Currently working to improve my skills in full-stack development with real-world
   <a href="https://react-admin-dashboard-tau-smoky.vercel.app/">Live Preview</a>
   </li>
 
-  <li><strong>Portfolio Website</strong> ||
-    <a href="https://github.com/pawan8705/Portfolio">GitHub Link</a> ||
-    <a href="https://portfolio-sooty-alpha-g4ekieye96.vercel.app/">Live Preview</a>
-  </li>
-
   <li><strong>Nike Shoes Website</strong> ||
   <a href="https://github.com/pawan8705/Nike">GitHub Link</a> ||
   <a href="https://nike-eta-beryl.vercel.app/">Live Preview</a>
-  </li>
-
-  <li>
-    <strong>Doctor Appointment Booking Website</strong> ||
-    <a href="https://github.com/pawan8705/Doctor_Booking_App">GitHub Link</a>  ||
-    <a href="https://doctor-appointment-booking-app-seven.vercel.app/">Live Preview</a>
-    
   </li>
 
 </ol>
