@@ -78,7 +78,7 @@ Currently working to improve my skills in full-stack development with real-world
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan-tripathi-9a8158367/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> || 
+  </a>
   <a href="https://www.instagram.com/pawan_tripathi06/profilecard/?igsh=NHhocndiNHEzZW13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -114,7 +114,7 @@ Currently working to improve my skills in full-stack development with real-world
 
   <li>
     <strong>Doctor Appointment Booking Website</strong> ||
-    <a href="https://github.com/pawan8705/Doctor_Booking_App">GitHub Link</a>
+    <a href="https://github.com/pawan8705/Doctor_Booking_App">GitHub Link</a>  ||
     <a href="https://doctor-appointment-booking-app-seven.vercel.app/">Live Preview</a>
     
   </li>
