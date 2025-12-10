@@ -114,7 +114,9 @@ Currently working to improve my skills in full-stack development with real-world
 
   <li>
     <strong>Project Showcase Website</strong> ||
-    <a href="https://manyprojects.netlify.app/">Live Preview</a>
+    <a href="https://github.com/pawan8705/Doctor_Booking_App">GitHub Link</a>
+    <a href="https://doctor-appointment-booking-app-seven.vercel.app/">Live Preview</a>
+    
   </li>
 
 </ol>
