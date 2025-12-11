@@ -92,8 +92,8 @@ Currently working to improve my skills in full-stack development with real-world
 <ol>
   
   <li><strong>Portfolio Website</strong> ||
-    <a href="https://github.com/pawan8705/Portfolio">GitHub Link</a> ||
-    <a href="https://portfolio-sooty-alpha-g4ekieye96.vercel.app/">Live Preview</a>
+    <a href="https://github.com/pawan8705/My_Portfolio">GitHub Link</a> ||
+    <a href="https://pawan-tripathi-portfolio.vercel.app">Live Preview</a>
   </li>
   
   <li><strong>NeoElectronix – Electronics E-Commerce Website</strong> || 
