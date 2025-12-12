@@ -109,8 +109,8 @@ Currently working to improve my skills in full-stack development with real-world
 
 
   <li><strong>Admin Dashboard UI – React Admin Panel</strong> ||
-  <a href="https://github.com/pawan8705/React-Admin-Dashboard">GitHub Link</a> ||
-  <a href="https://react-admin-dashboard-tau-smoky.vercel.app/">Live Preview</a>
+  <a href="https://github.com/pawan8705/Admin_Dashboard">GitHub Link</a> ||
+  <a href="https://admin-dashboard-five-umber-w63h4xuzcg.vercel.app/">Live Preview</a>
   </li>
 
   <li><strong>Nike Shoes Website</strong> ||
