@@ -75,7 +75,7 @@ Currently working to improve my skills in full-stack development with real-world
 <section>
 <h2>🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan-tripathi-9a8158367/" target="_blank">
+  <a href="https://www.linkedin.com/in/pawantripathi/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/pawan_tripathi06/profilecard/?igsh=NHhocndiNHEzZW13" target="_blank">
