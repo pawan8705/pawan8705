@@ -82,7 +82,7 @@ Currently working to improve my skills in full-stack development with real-world
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61572586097410" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-e4405f?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/facebook-e4405f?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb7sg2V3bbV4NpadBX1m" target="_blank">
     <img src="https://img.shields.io/badge/Whataapp-e4405f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
