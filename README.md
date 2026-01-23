@@ -76,19 +76,19 @@ Currently working to improve my skills in full-stack development with real-world
 <h2>🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/pawantripathi/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/tripathidevlab?igsh=aGlxaXFla2xoNXNw" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61572586097410" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-e4405f?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb7sg2V3bbV4NpadBX1m" target="_blank">
-    <img src="https://img.shields.io/badge/Whataapp-e4405f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@tripathidevlab?si=n8I4WrXL622dlWlJ" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-e4405f?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 </section>
