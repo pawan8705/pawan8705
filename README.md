@@ -78,8 +78,17 @@ Currently working to improve my skills in full-stack development with real-world
   <a href="https://www.linkedin.com/in/pawantripathi/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/pawan_tripathi06/profilecard/?igsh=NHhocndiNHEzZW13" target="_blank">
+  <a href="https://www.instagram.com/tripathidevlab?igsh=aGlxaXFla2xoNXNw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61572586097410" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-e4405f?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb7sg2V3bbV4NpadBX1m" target="_blank">
+    <img src="https://img.shields.io/badge/Whataapp-e4405f?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@tripathidevlab?si=n8I4WrXL622dlWlJ" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-e4405f?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 </section>
