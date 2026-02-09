@@ -105,9 +105,9 @@ Currently working to improve my skills in full-stack development with real-world
     <a href="https://pawan-tripathi-portfolio.vercel.app">Live Preview</a>
   </li>
   
-  <li><strong>NeoElectronix – Electronics E-Commerce Website</strong> || 
-  <a href="https://github.com/pawan8705/NeoElectonix">GitHub Link</a> ||
-  <a href="https://neo-electonix-l5ub.vercel.app/">Live Preview</a>
+  <li><strong>Nova Shop – E-Commerce Website</strong> || 
+  <a href="https://github.com/pawan8705/Nova_Shop/">GitHub Link</a> ||
+  <a href="https://nova-shop8705.vercel.app/">Live Preview</a>
   </li>
   
    <li>
