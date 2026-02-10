@@ -101,8 +101,8 @@ Currently working to improve my skills in full-stack development with real-world
 <ol>
   
   <li><strong>Portfolio Website</strong> ||
-    <a href="https://github.com/pawan8705/My_Portfolio">GitHub Link</a> ||
-    <a href="https://pawan-tripathi-portfolio.vercel.app">Live Preview</a>
+    <a href="https://github.com/pawan8705/Personal_Portfolio">GitHub Link</a> ||
+    <a href="https://tripathipawan.vercel.app/">Live Preview</a>
   </li>
   
   <li><strong>Nova Shop – E-Commerce Website</strong> || 
